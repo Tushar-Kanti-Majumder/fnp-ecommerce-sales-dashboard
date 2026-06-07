@@ -4,7 +4,7 @@
 This Data Analytics project transforms raw transactional data from Ferns N Petals (FNP) into structured, actionable business intelligence. The resulting interactive dashboard supports strategic decision-making by tracking revenue generation, operational logistics, and customer behavior.
 
 ### 📸 Dashboard Preview
-![FNP Sales Performance Dashboard](dashboard_screenshot.png)
+![FNP Sales Performance Dashboard](Excel Dashboard.jpg)
 
 ---
 
